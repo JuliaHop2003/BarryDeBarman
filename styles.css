@@ -1,0 +1,102 @@
+* {
+    font-family: sans-serif;
+}
+
+#speelruimte {
+    height: 600px;
+    position: relative;
+    width: 1000px;
+}
+
+#barmanAchterDeBar {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+#budget {
+    color: white;
+    left: 10px;
+    position: absolute;
+}
+
+#totaleUitgaven {
+    color: white;
+    left: 10px;
+    top: 20px;
+    position: absolute;
+}
+
+#drunkmeter {
+    left: 50px;
+    top: 50px;
+    position: absolute;
+}
+
+#wijzer {
+    left: 50px;
+    top: 50px;    
+    position: absolute;
+}
+
+#tekstwolkje {
+    position: absolute;
+    right: 75px;
+    top: 100px;
+}
+
+#legeImg {
+    position: absolute;
+    left: 200px;
+    bottom: 155px;
+}
+
+#praten {
+    right: 100px;
+    top: 205px;
+    position: absolute;
+}
+
+#shotjeButton {
+    left: 100px;
+    bottom: 50px;
+    position: absolute;
+}
+
+#shotjeButton:hover {
+    left: 100px;
+    bottom: 50px;
+    position: absolute;
+    background: lightgray;
+}
+
+#bierButton {
+    left: 265px;
+    bottom: 50px;
+    position: absolute;
+}
+
+#wijnButton {
+    left: 430px;
+    bottom: 50px;
+    position: absolute;
+}
+
+#mixjeButton {
+    left: 595px;
+    bottom: 50px;
+    position: absolute;
+}
+
+#cocktailButton {
+    right: 90px;
+    bottom: 50px;
+    position: absolute;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+}
